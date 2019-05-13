@@ -9778,7 +9778,7 @@ var Content = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(fun
       lineNumber: 7
     },
     __self: this
-  }, "This is the blog post content."));
+  }, "This is hard-coded blog post content."));
 });
 
 var Page = function Page(props) {
@@ -9801,7 +9801,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!******************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fpost&absolutePagePath=%2FUsers%2Fron%2FDEVELOPMENT%2FJS-GENERAL%2FNEXTJS%2Fhello-next%2Fpages%2Fpost.js ***!
   \******************************************************************************************************************************************************/
@@ -9824,5 +9824,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=post.js.map

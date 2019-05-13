@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 6);
+/******/ 	return __webpack_require__(__webpack_require__.s = 4);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -234,7 +234,7 @@ var Content = Object(next_router__WEBPACK_IMPORTED_MODULE_1__["withRouter"])(fun
       lineNumber: 7
     },
     __self: this
-  }, "This is the blog post content."));
+  }, "This is hard-coded blog post content."));
 });
 
 var Page = function Page(props) {
@@ -257,7 +257,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 6:
+/***/ 4:
 /*!*****************************!*\
   !*** multi ./pages/post.js ***!
   \*****************************/
